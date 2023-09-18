@@ -14,7 +14,7 @@ m.reply(`✅ User kicked`)
 handler.help = ['kick @user']
 handler.tags = ['group']
 handler.command = ['kick', 'expulsar'] 
-handler.admin = true
+//handler.admin = true
 handler.group = true
 handler.botAdmin = true
 
