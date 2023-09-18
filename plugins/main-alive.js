@@ -40,7 +40,7 @@ let str = `
 ╰────────────⦁
 │ *Bot Name* : ${botname}
 │ *Owner Name* : ${author}
-│ *Join* : https://t.me/chatgpt04
+│ *YouTube* : Mr Unique Hacker
 │ *Platform* : linux
 │ *Uptime* : ${uptime}
 │ *Experience:* ${exp}
