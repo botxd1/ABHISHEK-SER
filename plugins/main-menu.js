@@ -257,8 +257,8 @@ ${readMore}
 ╰────────────⦁
 
 ╭───❮  *🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁* ❯
-│      Join 👇
-│  https://t.me/chatgpt04
+│      Subscribe 👇
+│  *Mr Unique Hacker*
 ╰────────────⦁`  
 conn.sendFile(m.chat, pp, 'perfil.jpg', lkr, m, false, { mentions: [who] })
 m.react('📃')
