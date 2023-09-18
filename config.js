@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = 'Bot15446'
 global.premium = 'true'
 global.packname = 'Bot' 
 global.author = 'Professor' 
