@@ -2,7 +2,7 @@ let handler = async m => m.reply(`
 
 ≡  *Mr Unique Hacker*   GROUPS
 ▢ Join Public Bot Group And Support
-https://chat.whatsapp.com/DFWO2OXkmgu2bxnEVpLvuj
+https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A
 ─────────────
 ▢ *Telegram*
 https://t.me/mr_unique_hacker
